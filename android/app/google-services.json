@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857247320887",
+    "project_id": "subhakshanfirstapp1",
+    "storage_bucket": "subhakshanfirstapp1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857247320887:android:c8ed6ed6668c1f911d68b2",
+        "android_client_info": {
+          "package_name": "com.example.first_app_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-U6ECoxy3b6TefQh6lhuzvLpWH6JMNXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
